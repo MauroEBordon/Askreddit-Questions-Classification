@@ -1,3 +1,4 @@
+from TCA import *
 
 class DBCleaner:
     def __init__(self) -> None:
