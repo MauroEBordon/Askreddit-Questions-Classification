@@ -3,7 +3,7 @@ from TCA import *
 class Answer:
     pass
 
-class Model:
+class Pipe:
     def __init__(self ,path:str) -> None:
 
         self.df = None

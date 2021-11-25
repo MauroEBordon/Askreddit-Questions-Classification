@@ -1,3 +1,3 @@
 from TCA import *
 
-Model.Model("asd")
+Model.Pipe("asd")
