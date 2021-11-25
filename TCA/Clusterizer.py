@@ -10,3 +10,7 @@ class Clusterizer:
 
     def get_knn(self) -> None:
         pass
+
+    #sets labels
+    def get_clusters(self) -> None:
+        pass

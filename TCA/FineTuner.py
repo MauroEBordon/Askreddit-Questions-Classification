@@ -4,7 +4,7 @@ class FineTuner:
     def __init__(self, df) -> None:
         self.df = df
         self.df = None
-        self.textproc = DBCleaner(None)
+        self.textproc = DBParser(None)
        
         
         self.clusterer = Clusterizer(None)
