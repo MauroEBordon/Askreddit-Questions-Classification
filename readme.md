@@ -24,9 +24,9 @@
 * Clustering module overhaul:
     * get optimal cluster number
     * try the next embeddings: Doc2Vec, FastText, WordNet
-    * 
     * try diferent strategies of feature-extraction
-* Classification module overhaul    
+* Classification module overhaul  
+    * choose a metric to determing the best algorithm
 
 -- Tier 2 --
 * Creation of the reply module
