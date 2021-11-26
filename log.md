@@ -1,0 +1,2 @@
+
+Debido a los muchos obstaculos que fui encontrando trabajando con el español (pocos recusos), los tweets (la gnete escribe mal), y un dataset ajeno(no optimo para lo q se estudia), decidí crear mi propio corpus
