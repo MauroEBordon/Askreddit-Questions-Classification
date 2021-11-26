@@ -40,7 +40,7 @@
 
 ---
 
-## Proyected use case (extremly temporal)
+## Projected use case (extremly temporal)
 
 ```python
 from tca import TCA
