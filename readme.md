@@ -78,6 +78,7 @@ ans.precition
 
 ``` 
 
+[URL del corpus](https://www.kaggle.com/mauroebordon/askreddit-qa)
 
 ## Other: 
 * [Old presentation video](https://www.youtube.com/watch?v=YM8J4S4PLTI)
