@@ -3,7 +3,9 @@ import re
 from nltk.corpus import stopwords
 stop = stopwords.words('english')
 
-stop_pattern = re.compile(r'\b(' + r'|'.join(stopwords.words('english')) + r')\b\s*')    
+stop_pattern = re.compile(r'\b(' + r'|'.join(stopwords.words('english')) + r')\b\s*') 
+   
+nostop_pattern = re.compile(r'\b(' + r'|!'.join(stopwords.words('english')) + r')\b\s*')    
 
 emoji_pattern = re.compile("["
                             u"\U0001F600-\U0001F64F"  # emoticons
